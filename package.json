@@ -1,0 +1,23 @@
+{
+  "name": "objects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "defaults.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module", 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep-arch/JS_Drills-Objects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deep-arch/JS_Drills-Objects/issues"
+  },
+  "homepage": "https://github.com/deep-arch/JS_Drills-Objects#readme"
+}
